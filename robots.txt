@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahzielaek.margopixelated.com/sitemap.xml
